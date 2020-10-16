@@ -24,14 +24,14 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 # TABLE OF CONTENTS 
-Description
-User Story
-Acceptance Criteria
-Table of Contents
-Installation
-Usage
-License 
-Questions 
+- Description
+- User Story
+- Acceptance Criteria
+- Table of Contents
+- Installation
+- Usage
+- License 
+- Questions 
 
 # INSTALLATION 
 npm init
@@ -49,8 +49,6 @@ node index.js
 https://github.com/danielviram
 # EMAIL 
 danielviram@gmail.com
-
-
 
 # Isssues
  
